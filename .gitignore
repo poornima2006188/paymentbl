@@ -1,0 +1,7 @@
+node_modules/
+artifacts/
+cache/
+contract_address.txt
+__pycache__/
+*.pyc
+.env

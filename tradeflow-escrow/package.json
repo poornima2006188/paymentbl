@@ -1,0 +1,11 @@
+{
+    "name": "tradeflow-escrow",
+    "version": "1.0.0",
+    "description": "Hackathon optimized escrow",
+    "main": "index.js",
+    "license": "MIT",
+    "devDependencies": {
+        "hardhat": "^2.19.0",
+        "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+    }
+}
